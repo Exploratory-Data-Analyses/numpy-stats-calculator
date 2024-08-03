@@ -58,7 +58,7 @@ pip install -r requirements.txt
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/yourusername/numpy-stats-calculator.git
+    git clone https://github.com/mrowurakwarteng/Exploratory-Data-Analyses/numpy-stats-calculator.git
     cd numpy-stats-calculator
     ```
 
